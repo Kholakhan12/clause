@@ -14,3 +14,8 @@ __pycache__/
 
 # Vector database (rebuilt by ingest)
 qdrant_data/
+
+
+
+\notebooks\
+\playground\
